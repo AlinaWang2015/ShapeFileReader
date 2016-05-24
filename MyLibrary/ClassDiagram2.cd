@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mylibrary.Geometry" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAkAAAABEAAgAAIAIAAAEAAAAAEAAAAAA=</HashCode>
+      <FileName>Geomentry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.MainRecord">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAIEAAABAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.Multipoint" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Multipoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.Mylibrary" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mylibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.Point" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAQAAAAAAAAAgAAAABgAAAAYAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.Polygon" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Polygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.Polyline" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAgAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Polyline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.ShapeFile" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAAKAAgAAAAIAAAiIAAggAEAIIABAARAEAAEABAAA=</HashCode>
+      <FileName>ShapeFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mylibrary.ShxRecord">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>ShxRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Mylibrary.ShapeTypes" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAEhAAAAAAAAAABAAAACAAAAAIAAAACACA=</HashCode>
+      <FileName>ShapeTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
