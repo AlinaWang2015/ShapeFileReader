@@ -31,7 +31,6 @@ namespace Mylibrary
                 int numParts = binaryFile.ReadInt32();
                 int numPoints = binaryFile.ReadInt32();
 
-
                 for (int j = 0; j < numParts; j++)
                 {
                     int parts = binaryFile.ReadInt32();
